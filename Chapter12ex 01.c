@@ -20,8 +20,8 @@ int main(void) {
 	struct mail_list list[100];
 
 
-	strcpy(list[0].name, "William Cetina");
-	list[0].address = 12391092;
+	strcpy(list[0].name, "Yukihira Souma");
+	list[0].address = 97219;
 	strcpy(list[0].street1, "SOMEPLACE");
 	strcpy(list[0].city, "Mérida");
 	strcpy(list[0].state, "YUC");
